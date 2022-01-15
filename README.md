@@ -9,4 +9,4 @@ Aim - Create a basic frontend of a login dashboard with the below mentioned func
 4.Entering the password as - SmartServTest@123 should redirect the user to a dashboard page which must look like below. (file : dashboard2.png). Any other password should throw an error.
 5.All the components on the dashboard page must be actual components like charts and dropdowns. No image use is allowed.
 
-Time taken to complete this. - 4 Hours
+Time taken to complete this. - 6 Hours
